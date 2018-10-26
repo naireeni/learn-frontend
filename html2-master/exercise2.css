@@ -1,0 +1,21 @@
+
+
+
+#about_blue{
+
+  background: #6495ED;
+  border: 1px solid  #000;
+}
+#about_blue li{
+  color:blue;
+}
+
+#about_yellow{
+  margin-top: 10px;
+  background: #FFEBCD;
+  border: 1px solid  #000;
+
+}
+#about_yellow li{
+  color: orange;
+}
